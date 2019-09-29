@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fisaipoom.aqua-everfit.de/sitemap.xml
